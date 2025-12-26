@@ -1,0 +1,19 @@
+@keyframes slide-right {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.animate-slide-right {
+  animation: slide-right 1.2s ease-out forwards;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+}
