@@ -76,7 +76,7 @@ Each role sees only the UI and data necessary for their responsibilities.
 ## Project structure (important files / folders)
 src/
 ├── Components/  
-├── Pages/  
+├── Roles/  
 │   ├── Admin/  
 │   ├── Doctor/  
 │   ├── Nurse/  
